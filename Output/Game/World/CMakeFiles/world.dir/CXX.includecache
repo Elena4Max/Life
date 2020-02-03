@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/elena/Рабочий стол/lena/sss/Game/World/world.cpp
+random
+-
+world.h
+/home/elena/Рабочий стол/lena/sss/Game/World/world.h
+
+/home/elena/Рабочий стол/lena/sss/Game/World/world.h
+vector
+-
+

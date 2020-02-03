@@ -1,0 +1,12 @@
+/home/elena/Рабочий стол/lena/sss/Output/CMakeFiles/rebuild_cache.dir
+/home/elena/Рабочий стол/lena/sss/Output/CMakeFiles/life.dir
+/home/elena/Рабочий стол/lena/sss/Output/CMakeFiles/edit_cache.dir
+/home/elena/Рабочий стол/lena/sss/Output/Game/CMakeFiles/rebuild_cache.dir
+/home/elena/Рабочий стол/lena/sss/Output/Game/CMakeFiles/game.dir
+/home/elena/Рабочий стол/lena/sss/Output/Game/CMakeFiles/edit_cache.dir
+/home/elena/Рабочий стол/lena/sss/Output/Game/View/CMakeFiles/rebuild_cache.dir
+/home/elena/Рабочий стол/lena/sss/Output/Game/View/CMakeFiles/view.dir
+/home/elena/Рабочий стол/lena/sss/Output/Game/View/CMakeFiles/edit_cache.dir
+/home/elena/Рабочий стол/lena/sss/Output/Game/World/CMakeFiles/rebuild_cache.dir
+/home/elena/Рабочий стол/lena/sss/Output/Game/World/CMakeFiles/world.dir
+/home/elena/Рабочий стол/lena/sss/Output/Game/World/CMakeFiles/edit_cache.dir

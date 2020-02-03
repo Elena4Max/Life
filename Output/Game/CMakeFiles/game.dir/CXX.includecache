@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Game/View/view.h
+world.h
+../Game/View/world.h
+iostream
+-
+
+../Game/World/world.h
+vector
+-
+
+/home/elena/Рабочий стол/lena/sss/Game/game.cpp
+game.h
+/home/elena/Рабочий стол/lena/sss/Game/game.h
+view.h
+/home/elena/Рабочий стол/lena/sss/Game/view.h
+world.h
+/home/elena/Рабочий стол/lena/sss/Game/world.h
+unistd.h
+-
+
+/home/elena/Рабочий стол/lena/sss/Game/game.h
+view.h
+/home/elena/Рабочий стол/lena/sss/Game/view.h
+world.h
+/home/elena/Рабочий стол/lena/sss/Game/world.h
+

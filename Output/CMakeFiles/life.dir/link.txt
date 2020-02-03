@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/life.dir/main.cpp.o  -o life  Game/libgame.a Game/View/libview.a Game/World/libworld.a 

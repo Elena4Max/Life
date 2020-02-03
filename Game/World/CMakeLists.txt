@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project(life)
+set(SOURCES world.cpp)
+set(HEADERS world.h)
+add_library(world ${SOURCES} ${HEADERS})
+target_include_directories(world PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})

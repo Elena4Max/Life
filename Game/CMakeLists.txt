@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 2.8)
+project(life)
+set(SOURCES game.cpp)
+set(HEADERS game.h)
+add_library(game ${SOURCES} ${HEADERS})
+add_subdirectory(View)
+add_subdirectory(World)
+target_include_directories(game PUBLIC ${CMAKE_CURRENT_SOURCE_DIR} ${CMAKE_CURRENT_SOURCE_DIR}/View ${CMAKE_CURRENT_SOURCE_DIR}/World)
+target_link_libraries(game view world)
+
